@@ -17,10 +17,10 @@ The Weather App is a Flutter-based mobile application that provides users with u
 - **GPS-Based Location:** The app fetches weather data based on the user's current GPS coordinates, ensuring accurate and up-to-date information.
 
 ## Screenshots
-< img src="https://github.com/RahulYellantrawar/Weather-App/assets/138847160/f82909c2-43ba-40b4-9f9e-dec83a960dfe" height="400" width="200" />
-< img src="https://github.com/RahulYellantrawar/Weather-App/assets/138847160/c6d19ddc-10d4-4f3e-8f22-211136adeea4" height="400" width="200" />
-< img src="https://github.com/RahulYellantrawar/Weather-App/assets/138847160/06a60a21-9f87-4294-a93b-765f4a2582f7" height="400" width="200" />
-< img src="https://github.com/RahulYellantrawar/Weather-App/assets/138847160/491510e2-08f6-4c62-b6a1-61a1b5735aa8" height="400" width="200" />
+<img src="https://github.com/RahulYellantrawar/Weather-App/assets/138847160/f82909c2-43ba-40b4-9f9e-dec83a960dfe" height="400" width="200" />
+<img src="https://github.com/RahulYellantrawar/Weather-App/assets/138847160/c6d19ddc-10d4-4f3e-8f22-211136adeea4" height="400" width="200" />
+<img src="https://github.com/RahulYellantrawar/Weather-App/assets/138847160/06a60a21-9f87-4294-a93b-765f4a2582f7" height="400" width="200" />
+<img src="https://github.com/RahulYellantrawar/Weather-App/assets/138847160/491510e2-08f6-4c62-b6a1-61a1b5735aa8" height="400" width="200" />
 
 
 https://github.com/RahulYellantrawar/Weather-App/assets/138847160/92e55891-e30e-47a8-9c25-905ec9df9e5d
